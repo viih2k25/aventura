@@ -1,6 +1,27 @@
 body{
 background-color:rgb(146, 0, 0)
 display:flex;
+jutify-content: center;
+align-items:center;
+height: 700px
+margin:0;
+
+}
+
+button {
+    background-color:blue;
+    color:aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+.passo{
+display: none; 
+
+
+
+
+
 
 
 }
